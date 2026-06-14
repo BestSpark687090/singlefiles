@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml" width="100%" height="100%">
-  <foreignObject width="100%" height="100%">
+  <foreignObject width="100%" height="100%" style="overflow:auto">
     <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
     <head>
       <meta charset="utf-8" />
       <style>
+        html, body { height: 100%; overflow: auto; }
         body { background: #000; color: #fff; font-family: sans-serif; padding: 2rem; max-width: 600px; margin: 0 auto; }
         h1 { color: #aa0000; margin-bottom: 0.25rem; }
         p  { color: #888; font-size: 0.85rem; margin-bottom: 1.5rem; }
