@@ -1,0 +1,13 @@
+BestSpark single.html – CDN + SVG Pairs
+========================================
+
+cdn.jsdelivr.net          + jsdelivr.svg
+fastly.jsdelivr.net       + fastly-jsdelivr.svg
+gcore.jsdelivr.net        + gcore-jsdelivr.svg
+jsdelivr.b-cdn.net        + b-cdn-jsdelivr.svg
+originfastly.jsdelivr.net + originfastly.svg
+raw.githack.com           + githack.svg
+rawcdn.githack.com        + rawcdn-githack.svg
+cdn.statically.io         + statically.svg
+esm.sh                    + esm.svg          (direct — no blob needed)
+raw.esm.sh                + raw-esm.svg      (direct — no blob needed)
