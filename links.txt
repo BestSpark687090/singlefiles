@@ -1,13 +1,13 @@
-BestSpark single.html – CDN + SVG Pairs
-========================================
+BestSpark single.html – CDN Links
+===================================
 
-cdn.jsdelivr.net          + jsdelivr.svg
-fastly.jsdelivr.net       + fastly-jsdelivr.svg
-gcore.jsdelivr.net        + gcore-jsdelivr.svg
-jsdelivr.b-cdn.net        + b-cdn-jsdelivr.svg
-originfastly.jsdelivr.net + originfastly.svg
-raw.githack.com           + githack.svg
-rawcdn.githack.com        + rawcdn-githack.svg
-cdn.statically.io         + statically.svg
-esm.sh                    + esm.svg          (direct — no blob needed)
-raw.esm.sh                + raw-esm.svg      (direct — no blob needed)
+https://cdn.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/single.html
+https://fastly.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/single.html
+https://gcore.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/single.html
+https://jsdelivr.b-cdn.net/gh/BestSpark687090/BestSpark687090@main/single.html
+https://originfastly.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/single.html
+https://raw.githack.com/BestSpark687090/BestSpark687090/main/single.html
+https://rawcdn.githack.com/BestSpark687090/BestSpark687090/main/single.html
+https://cdn.statically.io/gh/BestSpark687090/BestSpark687090/main/single.html
+https://esm.sh/gh/BestSpark687090/BestSpark687090@main/single.html
+https://raw.esm.sh/gh/BestSpark687090/BestSpark687090@main/single.html
