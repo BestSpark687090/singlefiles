@@ -1,13 +1,13 @@
 BestSpark single.html – CDN Links
 ===================================
 
-https://cdn.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/singlefiles/jsdelivr.svg
-https://fastly.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/singlefiles/fastly-jsdelivr.svg
-https://gcore.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/singlefiles/gcore-jsdelivr.svg
-https://jsdelivr.b-cdn.net/gh/BestSpark687090/BestSpark687090@main/singlefiles/b-cdn-jsdelivr.svg
-https://originfastly.jsdelivr.net/gh/BestSpark687090/BestSpark687090@main/singlefiles/originfastly.svg
-https://raw.githack.com/BestSpark687090/BestSpark687090/main/singlefiles/githack.svg
-https://rawcdn.githack.com/BestSpark687090/BestSpark687090/main/singlefiles/rawcdn-githack.svg
-https://cdn.statically.io/gh/BestSpark687090/BestSpark687090/main/singlefiles/statically.svg
-https://esm.sh/gh/BestSpark687090/BestSpark687090@main/singlefiles/esm.svg
-https://raw.esm.sh/gh/BestSpark687090/BestSpark687090@main/singlefiles/raw-esm.svg
+https://cdn.jsdelivr.net/gh/BestSpark687090/singlefiles@main/jsdelivr.svg
+https://fastly.jsdelivr.net/gh/BestSpark687090/singlefiles@main/fastly-jsdelivr.svg
+https://gcore.jsdelivr.net/gh/BestSpark687090/singlefiles@main/gcore-jsdelivr.svg
+https://jsdelivr.b-cdn.net/gh/BestSpark687090/singlefiles@main/b-cdn-jsdelivr.svg
+https://originfastly.jsdelivr.net/gh/BestSpark687090/singlefiles@main/originfastly.svg
+https://raw.githack.com/BestSpark687090/singlefiles/main/githack.svg
+https://rawcdn.githack.com/BestSpark687090/singlefiles/main/rawcdn-githack.svg
+https://cdn.statically.io/gh/BestSpark687090/singlefiles/main/statically.svg
+https://esm.sh/gh/BestSpark687090/singlefiles@main/esm.svg
+https://raw.esm.sh/gh/BestSpark687090/singlefiles@main/raw-esm.svg
